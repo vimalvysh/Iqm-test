@@ -10,6 +10,7 @@ const MOODLET_STATUS: MoodletStatusType = {
   current: false,
   completed: false,
 };
+
 const COLOR = {
   notReq: '#E2DEED',
   req: '#998DBF',
